@@ -1,0 +1,23 @@
+body {
+    
+background: linear-gradient(#60ebeb 0%, #f542e9 50%, #fffffe 100%);
+    
+    background-repeat: no-repeat;
+    
+    text-align: center;
+    
+}
+
+img {
+    
+    width: 200px;
+    
+    height: 200px;
+    
+}
+
+p {
+    
+    font-size: 20px;
+    
+}
